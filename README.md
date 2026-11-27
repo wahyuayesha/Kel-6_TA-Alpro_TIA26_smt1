@@ -4,11 +4,6 @@
   <i>A simple C++ console-based application for managing campus service queues.</i>
 </p>
 
-<p align="center">
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey?style=flat-square)
-</p>
-
 ## ✧ Features
 
 - 🎫 **Take Queue** — Generate automatic queue numbers.
@@ -27,10 +22,17 @@
 
 ## 👥 Collaborators
 
-| Name | Role |
-|:---|:---|
-| Your Name | Developer |
-| Collaborator Name | Developer |
+<p align="center">
+  <a href="https://github.com/wildanahmadshofiyulloh">
+    <img src="https://github.com/wildanahmadshofiyulloh.png" width="80" alt="wildanahmadshofiyulloh"/>
+  </a>
+  <a href="https://github.com/emqllcpm-pixel">
+    <img src="https://github.com/emqllcpm-pixel.png" width="80" alt="emqllcpm-pixel"/>
+  </a>
+  <a href="https://github.com/ahmadibrohim2605356-ops">
+    <img src="https://github.com/ahmadibrohim2605356-ops.png" width="80" alt="ahmadibrohim2605356-ops"/>
+  </a>
+</p>
 
 ## 🚀 Getting Started
 
@@ -42,10 +44,6 @@ g++ main.cpp -o queue
 ```
 
 ---
-
-## 👥 Collaborators
-
-[![Contributors](https://contrib.rocks/image?repo=wahyuayesha/Kel-6_TA-Alpro_TIA26_smt1)](https://github.com/wahyuayesha/Kel-6_TA-Alpro_TIA26_smt1/graphs/contributors)
 
 <p align="center">
   <i>Built with C++ · Learning through collaboration.</i>
